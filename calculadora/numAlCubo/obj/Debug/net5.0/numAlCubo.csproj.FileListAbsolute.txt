@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\numAlCubo.exe
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\numAlCubo.deps.json
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\numAlCubo.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\numAlCubo.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\numAlCubo.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\ref\numAlCubo.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\bin\Debug\net5.0\numAlCubo.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\ref\numAlCubo.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\numAlCubo\obj\Debug\net5.0\numAlCubo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\primer-programa.exe
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\primer-programa.deps.json
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\primer-programa.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\primer-programa.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\primer-programa.dll
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\ref\primer-programa.dll
+D:\C.sharp\Curso C# Nivel1\primer-programa\bin\Debug\net5.0\primer-programa.pdb
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.dll
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\ref\primer-programa.dll
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.pdb
+D:\C.sharp\Curso C# Nivel1\primer-programa\obj\Debug\net5.0\primer-programa.genruntimeconfig.cache

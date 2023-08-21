@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\calcularKm-h.exe
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\calcularKm-h.deps.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\calcularKm-h.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\calcularKm-h.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\calcularKm-h.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\ref\calcularKm-h.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\bin\Debug\net5.0\calcularKm-h.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\ref\calcularKm-h.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularKm-h\obj\Debug\net5.0\calcularKm-h.genruntimeconfig.cache

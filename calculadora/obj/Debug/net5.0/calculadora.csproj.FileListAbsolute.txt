@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\calculadora.exe
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\calculadora.deps.json
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\calculadora.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\bin\Debug\net5.0\calculadora.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache

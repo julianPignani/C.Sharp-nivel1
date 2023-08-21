@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\calcularPromedio.exe
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\calcularPromedio.deps.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\calcularPromedio.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\calcularPromedio.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\calcularPromedio.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\ref\calcularPromedio.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\bin\Debug\net5.0\calcularPromedio.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\ref\calcularPromedio.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularPromedio\obj\Debug\net5.0\calcularPromedio.genruntimeconfig.cache

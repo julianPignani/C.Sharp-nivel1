@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "calcularKm-h/1.0.0": {
+        "runtime": {
+          "calcularKm-h.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcularKm-h/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

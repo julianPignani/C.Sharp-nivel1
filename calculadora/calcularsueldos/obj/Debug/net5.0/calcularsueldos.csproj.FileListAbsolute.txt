@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\calcularsueldos.exe
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\calcularsueldos.deps.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\calcularsueldos.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\calcularsueldos.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\calcularsueldos.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\ref\calcularsueldos.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\bin\Debug\net5.0\calcularsueldos.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\ref\calcularsueldos.dll
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.pdb
+D:\C.sharp\Curso C# Nivel1\calculadora\calcularsueldos\obj\Debug\net5.0\calcularsueldos.genruntimeconfig.cache
