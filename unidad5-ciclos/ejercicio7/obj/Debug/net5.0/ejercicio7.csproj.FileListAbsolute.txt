@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ejercicio7.exe
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ejercicio7.deps.json
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ejercicio7.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ejercicio7.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ejercicio7.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ref\ejercicio7.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\bin\Debug\net5.0\ejercicio7.pdb
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ref\ejercicio7.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.pdb
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio7\obj\Debug\net5.0\ejercicio7.genruntimeconfig.cache

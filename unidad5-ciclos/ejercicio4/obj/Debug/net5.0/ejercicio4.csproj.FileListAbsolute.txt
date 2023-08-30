@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ejercicio4.exe
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ejercicio4.deps.json
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ejercicio4.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ejercicio4.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ejercicio4.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ref\ejercicio4.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\bin\Debug\net5.0\ejercicio4.pdb
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ref\ejercicio4.dll
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.pdb
+D:\C.sharp\Curso C# Nivel1\unidad5-ciclos\ejercicio4\obj\Debug\net5.0\ejercicio4.genruntimeconfig.cache
