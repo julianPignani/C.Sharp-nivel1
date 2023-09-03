@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ejemplos.exe
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ejemplos.deps.json
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ejemplos.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ejemplos.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ejemplos.dll
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ref\ejemplos.dll
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\bin\Debug\net5.0\ejemplos.pdb
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.dll
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ref\ejemplos.dll
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.pdb
+D:\C.sharp\Curso C# Nivel1\unidad6-ciclos-combinados\ejercicio1\obj\Debug\net5.0\ejemplos.genruntimeconfig.cache
