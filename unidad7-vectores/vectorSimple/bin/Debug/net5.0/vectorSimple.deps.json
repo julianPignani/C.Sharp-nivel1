@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "vectorSimple/1.0.0": {
+        "runtime": {
+          "vectorSimple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vectorSimple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

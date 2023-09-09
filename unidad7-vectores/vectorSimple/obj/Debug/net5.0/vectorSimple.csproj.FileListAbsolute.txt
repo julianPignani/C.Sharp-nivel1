@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\vectorSimple.exe
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\vectorSimple.deps.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\vectorSimple.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\vectorSimple.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\vectorSimple.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\ref\vectorSimple.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\bin\Debug\net5.0\vectorSimple.pdb
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\ref\vectorSimple.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.pdb
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\vectorSimple\obj\Debug\net5.0\vectorSimple.genruntimeconfig.cache

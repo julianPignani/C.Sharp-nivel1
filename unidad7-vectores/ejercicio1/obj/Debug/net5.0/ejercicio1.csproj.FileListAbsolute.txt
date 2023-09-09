@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ejercicio1.exe
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ejercicio1.deps.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ejercicio1.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ref\ejercicio1.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\bin\Debug\net5.0\ejercicio1.pdb
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ref\ejercicio1.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.pdb
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\ejercicio1\obj\Debug\net5.0\ejercicio1.genruntimeconfig.cache

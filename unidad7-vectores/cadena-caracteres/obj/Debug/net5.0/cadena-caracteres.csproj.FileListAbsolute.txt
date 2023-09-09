@@ -1,0 +1,16 @@
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\cadena-caracteres.exe
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\cadena-caracteres.deps.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\cadena-caracteres.runtimeconfig.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\cadena-caracteres.runtimeconfig.dev.json
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\cadena-caracteres.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\ref\cadena-caracteres.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\bin\Debug\net5.0\cadena-caracteres.pdb
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.csproj.AssemblyReference.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.AssemblyInfoInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.AssemblyInfo.cs
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.csproj.CoreCompileInputs.cache
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\ref\cadena-caracteres.dll
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.pdb
+D:\C.sharp\Curso C# Nivel1\unidad7-vectores\cadena-caracteres\obj\Debug\net5.0\cadena-caracteres.genruntimeconfig.cache
